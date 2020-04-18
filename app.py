@@ -1,3 +1,5 @@
+import config
+
 # Import the functions we need from flask
 from flask import Flask
 from flask import render_template 
